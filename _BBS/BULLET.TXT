@@ -1,0 +1,20 @@
+Welcome to the December 1993 C User's Group CDROM.  You get hundreds of volumes
+of C and C++ source code.  An easy browser lets you wander the disc and copy
+code to your hard disc.  Here is a list of important files and directories:
+
+readme.txt      This file
+cug_info.txt    Info about the C Users Group
+capsule.txt     Capsule descriptions of each file in the CUG Library
+catalog.txt     Catalog of each CUG Library volume
+vol_?00         CUG Library volumes 100-382
+zipped\         All the CUG Library volumes compressed in zip archives
+
+The disc is set up for rbbs, opus, pcboard, wildcat, maximus, and
+spitfire BBS software.
+
+The C Users Group                       Walnut Creek CDROM
+1601 W. 23rd St. Suite 200              1547 Palos Verdes Mall, Suite 260
+Lawrence, KS. 66046                     Walnut Creek, CA  94596
+1-913-841-1631                          1-800-786-9907, +1-510-786-9907
+                                        FAX +1-510-947-1644
+                                        info@cdrom.com

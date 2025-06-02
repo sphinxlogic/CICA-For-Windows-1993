@@ -1,0 +1,16 @@
+CICA MS Windows CDROM, December 1993.  Walnut Creek CDROM.
+----------------------------------------------------------
+MS Supplemental Dev. Libraries 
+path: \win3\sdl 
+----------------------------------------------------------
+Name             Size    Date    Description
+------------     ----    ----    -------------------------
+DISKINDX.TXT   16,203  04-14-92  Cumulative Index of the SDL Disks 1-7
+SDLDISK1.ZIP  316,113  10-16-90  Disk One of the SDL
+SDLDISK2.ZIP  285,745  10-16-90  Disk Two of the SDL
+SDLDISK3.ZIP  109,299  10-16-90  Disk Three of the SDL (09-20-90 release)
+SDLDISK4.ZIP  167,757  10-16-90  Disk Four of the SDL
+SDLDISK5.ZIP  204,353  10-16-90  Disk Five of the SDL (HPPCL5A.DRV) (09-20-90 release)
+SDLDISK6.ZIP  222,822  10-16-90  Disk Six of the SDL (PSCRIPT.DRV) (09-20-90 release)
+SDLDISK7.ZIP  212,019  10-16-90  Disk Seven of the SDL
+ZIPINDEX.TXT    9,836  04-14-92  Zip Listing of SDLDISKS 1-7

@@ -1,0 +1,30 @@
+\win3\access               MS Access utilities
+\win3\demo                 Demo Windows Files
+\win3\desktop              Desktop Apps, Screen, BitMap's
+\win3\drivers\printer      Printer Drivers for Windows
+\win3\drivers\video        Video Files and Drivers
+\win3\excel                Excel spreadsheet utilities
+\win3\fonts                Windows Font Files
+\win3\fonts\atm            Windows ATM Font Files
+\win3\fonts\truetype       TrueType Font Files
+\win3\games                Windows Games
+\win3\icons                Windows Icon Files
+\win3\misc                 Miscellaneous Windows Files
+\win3\nt                   Windows NT Files
+\win3\patches              Patches and bug fixes
+\win3\patches\symantec     Patches and bug fixes
+\win3\pdoxwin              Paradox for Windows Files
+\win3\programr             Windows Programming Files
+\win3\programr\bcpp        Borland C++ Windows Programming
+\win3\programr\listings    Magazine Program Listings
+\win3\programr\tp          Turbo Pascal Programming
+\win3\programr\vbasic      VisualBasic (VB) Files
+\win3\sdl                  MS Supplemental Dev. Libraries 
+\win3\sounds               Sound Files and Utilities
+\win3\toolbook             Asymetrix ToolBook App's
+\win3\util                 Windows Utilities Files
+\win3\winsock              Windows Sockets
+\win3\winword              MicroSoft Word for Windows
+\win3\wpwin                WordPerfect for Windows Files
+\win3\wrk                  MS Windows 3.1 Resource Kit
+\simtel                    Simtel Windows 3.1 files

@@ -1,0 +1,33 @@
+CICA MS Windows CDROM, December '93.  Walnut Creek CDROM.
+---------------------------------------------------------
+Patches and bug fixes
+path: \win3\patches\symantec  
+Name             Size    Date    Description
+------------     ----    ----    ------------------------
+CMPA15.EXE     620004  10-23-93  Symantec C++ 6.00 COMPILER patch to ver
+  6.01a15
+IDDE_A5.EXE    259372  10-04-93  Symantec C++ 6.00 IDDE patch to ver 6.01a5
+IDDE_A5.TXT      1222  10-04-93  Symantec C++ 6.00 IDDE patch to ver 6.01a5
+LNKA08.EXE     151755  10-23-93  Symantec C++ 6.00 32-Bit Linker patch to ver
+  6.01A8
+LNKA08.TXT       1646  10-23-93  Symantec C++ 6.00 32-Bit Linker patch to ver
+  6.01A8
+MFCLIB.EXE     715720  10-07-93  Latest version of the Symantec C++ 6.00 MFC
+  libraries
+MFCLIB.TXT        852  10-07-93  Latest version of the Symantec C++ 6.00 MFC
+  libraries
+MFCSIM.EXE     836433  11-03-93  Symantec C++ MFC SIM update
+MFCSIM.TXT        871  11-03-93  Symantec C++ MFC SIM update
+MFCSM2.EXE     604326  11-03-93  Symantec C++ MFC SIM update
+MFCSM2.TXT       1308  11-03-93  Symantec C++ MFC SIM update
+RTLALL.EXE    1396181  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLDOS.EXE     703250  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLINC.EXE      82449  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLLIB.EXE    1312820  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLSNN.EXE      87418  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLSRC.EXE      56049  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLSRC.TXT        517  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLUPD.TXT       2100  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+RTLWIN.EXE     525715  10-07-93  Symantec C++ Patch Series (see rtlupd.txt)
+UPDCVP.EXE      65206  10-07-93  Latest version of CVPACK Symantec C++ 6.00
+UPDCVP.TXT       1994  10-07-93  Latest version of CVPACK Symantec C++ 6.00

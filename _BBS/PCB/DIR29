@@ -1,0 +1,20 @@
+CICA MS Windows CDROM.  December 93.  Walnut Creek CDROM.
+MS Windows 3.1 Resource Kit
+path: \win3\wrk 
+Name           Size      Date    Description
+============ ========  ========  ========================
+DISK_DRV.ZIP   132498  03-13-92  Windows Resource Kit 4/3/92
+DISK_IPX.ZIP    28479  03-13-92  Windows Resource Kit 4/3/92
+DISK_WRK.ZIP   562993  04-06-92  Windows Resource Kit 4/3/92
+DISKINDX.TXT    18706  06-10-92  Cumulative Index of the WRK Disks (below)
+DISKROOT.ZIP   146552  04-03-92  Windows Resource Kit 4/3/92
+MSWRK31.TXT      1369  05-15-92  Text file to accompany WRK
+TESTPS.TXT       2640  04-07-92  PostScript Printer Test
+WDL_AUD1.ZIP   255227  04-07-92  Windows Resource Kit (Newer)
+WDL_DSP1.ZIP  1022473  04-07-92  Windows Resource Kit (Newer)
+WDL_DSP2.ZIP   942205  04-07-92  Windows Resource Kit (Newer)
+WDL_MSC1.ZIP   462327  04-07-92  Windows Resource Kit (Newer)
+WDL_MSC2.ZIP   157295  04-07-92  Windows Resource Kit (Newer)
+WDL_PTR1.ZIP   405622  04-07-92  Windows Resource Kit (Newer)
+WDL_PTR2.ZIP   425413  04-07-92  Windows Resource Kit (Newer)
+WRK_DOC1.EXE   752115  06-10-92  Windows Resource Kit 4/3/92

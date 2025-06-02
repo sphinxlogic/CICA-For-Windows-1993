@@ -1,0 +1,51 @@
+\simtel                    Simtel 20 Windows 3 files
+\win3\access               MS Access utilities
+\win3\demo                 Demo Windows Files
+\win3\desktop              Desktop Apps, Screen, Image, and BitMap Files
+\win3\drivers\printer      Printer Drivers for Windows
+\win3\drivers\video        Video Files, Drivers for Windows 
+\win3\excel                Excel spreadsheet utilities
+\win3\fonts                Windows Font Files
+\win3\fonts\atm            Windows ATM Font Files
+\win3\fonts\truetype       TrueType Font Files
+\win3\games                Windows Games
+\win3\icons                Windows Icon Files
+\win3\misc                 Miscellaneous Windows Files
+\win3\nt                   Windows NT Files
+\win3\patches              Patches and bug fixes
+\win3\patches\symantec     Patches and bug fixes
+\win3\pdoxwin              Paradox for Windows Files
+\win3\programr             Windows Programming Files
+\win3\programr\bcpp        Borland C++ Windows Programming
+\win3\programr\listings    Program Listings from Publications
+\win3\programr\tp          Turbo Pascal Programming Files
+\win3\programr\vbasic      VisualBasic (VB) Files
+\win3\sdl                  MS (SDL) Supplemental Development Libraries 
+\win3\sounds               Windows Sound Files and Utilities
+\win3\toolbook             Asymetrix ToolBook Applications
+\win3\util                 Windows Utilities Files
+\win3\winsock              Windows Sockets
+\win3\winword              MicroSoft Word for Windows (WfW)
+\win3\wpwin                WordPerfect for Windows Files
+\win3\wrk                  MicroSoft Windows 3.1 Resource Kit (WRK)
+----------------------------------------------------------------------------
+\win_nt\dev_net            Microsoft Developer Network Technical Library
+\win_nt\isv_info           ISV Information
+\win_nt\mapi_cmc           Microsoft's Messaging API (MAPI)
+\win_nt\mfc_info           Microsoft Foundation Classes C++ Appl. Framework
+\win_nt\mrcispec           MRCI Compression and Doublespace toolkit
+\win_nt\multimed           Multimedia
+\win_nt\net_driv           Network drivers
+\win_nt\odbc_sdk           Open Database Connectivity software dev kit
+\win_nt\ole_info           Object Linking and Embedding information
+\win_nt\os2towin           MS OS/2 to Windows NT porting tools   
+\win_nt\sna_api            Windows SNA API
+\win_nt\snmp_sdk           SNMP software development kit
+\win_nt\sock_api           MS Windows Sockets API spec.
+\win_nt\tapispec           Telephony Application Programming Interface spec
+\win_nt\ttinfo             MS True-Type specifications   
+\win_nt\wfwsdk             WFW Software development kit
+\win_nt\win32api           Win32(tm) Application Programing Interface
+\win_nt\wosa_xrt           Windows Open Market Arch./eXtensions for Real Time
+\win_nt\xhib_93            Xhibition slides
+----------------------------------------------------------------------------
